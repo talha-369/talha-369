@@ -2,26 +2,11 @@
 
 # MD ABU TALHA
 
-**AI Product Builder · Founder · Product Design & Strategy**
+** STEM Nerd | Researcher | Innovative in product R&D & Strategy | **
 
-Digital Business & Innovation @ Tokyo International University · Saitama, Japan
-
-[![Website](https://img.shields.io/badge/BIRDSVEW-birdsvew.com-1B2A41?style=for-the-badge)](https://www.birdsvew.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Abu%20Talha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-talha-469a47379)
 
 </div>
-
----
-
-## About
-
-I take ideas from research to a working product, demo and pitch. I build AI products, run a technology venture studio (**LAB-369**), and co-founded **NexoSync AI**, an AI automation agency, where I lead product design, R&D and sales strategy.
-
-> Most of my source code is private. This page shows what I build, not the repos behind it.
-
-## Recognition
-
-🏆 **3rd Place — TRAE SOLO Hackathon Japan 2026** (organized by CreatorLabo) for **BIRDSVEW**, built and pitched in a single-day, on-site competition.
 
 ---
 
@@ -72,9 +57,3 @@ Personal portfolio websites for clients, from layout and content structure to la
 **Product:** product design · R&D · sales strategy · simulation design · robotics
 
 ---
-
-<div align="center">
-
-*In God we trust, all others must bring data.*
-
-</div>
