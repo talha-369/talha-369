@@ -34,7 +34,7 @@ Personal portfolio websites for clients, from layout and content structure to la
 
 | Work | Status |
 |---|---|
-| **Blockchain-Enabled and Tokenized Incentives for Tree Planting and Ecological Restoration**: scoping review with mechanism-based bridge synthesis (PRISMA-ScR) | Lead author · draft Nov 2026 |
+| **Blockchain-Enabled and Tokenized Incentives for Tree Planting and Ecological Restoration**: scoping review with mechanism-based bridge synthesis (PRISMA-ScR) | Lead author |
 | **Mycelial Quantum Routing**: fungus-inspired local routing that keeps entanglement flowing when repeaters fail | Independent research |
 | **Quantum Current (QC) Modeling**: conceptual electricity model with simultaneous directional currents | Independent research |
 
