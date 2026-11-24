@@ -2,7 +2,7 @@
 
 # MD ABU TALHA
 
-** STEM Nerd | Researcher | Innovative in product R&D & Strategy | **
+** STEM Nerd | Researcher | Product R&D & Strategy **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Abu%20Talha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-talha-469a47379)
 
